@@ -1,0 +1,9 @@
+{
+  "name": "consume-graphql-api-typed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DopamineDriven/consume-graphql-api-typed.git",
+  "author": "Andrew Ross <andrew.simpson.ross@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
