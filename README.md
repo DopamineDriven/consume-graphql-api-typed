@@ -1,0 +1,1 @@
+# consume-graphql-api-typed
